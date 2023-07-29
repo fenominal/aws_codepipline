@@ -9,7 +9,7 @@
                     <div class="col-xs-12">
 					<marquee     style="color:blue;"><b> <i padding="10px">"આત્મનિર્ભર ભારત"                                     "Let's Together To Make Strong India"</b></i></marquee>
                         <div class="section__title--2 text-center">
-                            <h2 class="title__line">Types Of Stores</h2>
+                            <h2 class="title__line">Types Of Stores :- </h2>
                         </div>
                     </div>
                 </div>
